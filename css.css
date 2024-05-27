@@ -483,6 +483,10 @@ footer ul {
     margin-top: 0rem;
   }
 
+  .fifthDiv {
+    padding: 6rem;
+  }
+
   .fifthDiv-inside {
     display: flex;
     flex-direction: row;
@@ -505,6 +509,7 @@ footer ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 5rem;
   }
 
   footer div {
